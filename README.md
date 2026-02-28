@@ -1,4 +1,4 @@
-# FuAdmin 管理平台
+# 广东省图学学会 FuAdmin 管理平台
 
 <div align="center">
 
